@@ -1,0 +1,27 @@
+{
+    "domain": "jpcodes.com",
+    
+    "groups" :[
+        {
+            "name": "Leaders"
+        }
+    ],
+
+    "users": [
+
+        {
+            "name": "John Peter",
+            "password": "P@ssw0rd285",
+            "groups": [
+                "Leaders"
+            ]
+        },
+        {
+            "name": "Rodger Dodger",
+            "password": "P@ssw0rd281",
+            "groups": [
+                "Leaders"
+            ]
+        }
+    ]
+}
