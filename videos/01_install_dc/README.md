@@ -1,4 +1,4 @@
-#01 Installing the Domain Controlled
+# Installing the Domain Controlled
 
 1. Use 'sconfig' to:
     - Change the hostname
